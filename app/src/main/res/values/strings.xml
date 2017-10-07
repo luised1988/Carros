@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Carros</string>
+    <string name="registrar_carros">REGISTRAR CARROS</string>
+    <string name="listar_carros">LISTAR CARROS</string>
+    <string name="registro_carros">REGISTRO DE CARROS</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
+
+    <string-array name="opciones">
+        <item>@string/registrar_carros</item>
+        <item>@string/listar_carros</item>
+    </string-array>
+
+    <string name="kia">Kia</string>
+    <string name="toyota">Toyota</string>
+    <string name="chevrolet">Chevrolet</string>
+    <string-array name="marca">
+        <item>@string/kia</item>
+        <item>@string/toyota</item>
+        <item>@string/chevrolet</item>
+    </string-array>
+
+    <string name="modelo1">2008</string>
+    <string name="modelo2">2009</string>
+    <string name="modelo3">2010</string>
+    <string-array name="modelo">
+        <item>@string/modelo1</item>
+        <item>@string/modelo2</item>
+        <item>@string/modelo3</item>
+    </string-array>
+
+    <string name="rojo">Rojo</string>
+    <string name="blanco">Blanco</string>
+    <string name="negro">Negro</string>
+    <string-array name="color">
+        <item>@string/blanco</item>
+        <item>@string/negro</item>
+        <item>@string/rojo</item>
+    </string-array>
+
+    <string name="registro_guardado">Registro Guardado</string>
+    <string name="placa">Placa</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="precio">Precio</string>
+</resources>

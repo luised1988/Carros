@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="blanco">White</string>
+    <string name="borrar">Clean</string>
+    <string name="listar_carros">LIST CAR</string>
+    <string name="marca">Brand</string>
+    <string name="modelo">Model</string>
+    <string name="negro">Black</string>
+    <string name="placa">Plaque</string>
+    <string name="precio">Price</string>
+    <string name="registrar_carros">REGISTER CAR</string>
+    <string name="registro_carros">REGISTER CAR</string>
+    <string name="registro_guardado">Regidter Save</string>
+    <string name="rojo">Red</string>
+</resources>
